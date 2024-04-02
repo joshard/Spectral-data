@@ -22,7 +22,11 @@ Tool Design: The spectrometer is designed with a consistent light source powered
 Data Summary
 
 
-
+| Left |  Center  | Right |
+|:-----|:--------:|------:|
+| L0   | **bold** | $1600 |
+| L1   |  `code`  |   $12 |
+| L2   | _italic_ |    $1 |
 Spectral data
 Bio Chemical
 Image data

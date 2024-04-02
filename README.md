@@ -22,42 +22,17 @@ Tool Design: The spectrometer is designed with a consistent light source powered
 Data Summary
 
 
-|  |  Spectral  | BioChemical | Image data|
+|  |  Spectral data | BioChemical | Image data|
 |:-----|:--------:|------:|------:|
 | HLT   | 1167 | 582 | 1167 |
 | CBSD   |  582  |   582 | 582 |
 | CMD   | 564 |    564 | 564 |
 | Total | 2313 | 1728 | 2313 |
-Spectral data
-Bio Chemical
-Image data
-HLT
-1167
-582
-1167
-CBSD
-582
-582
-582
-CMD
-564
-564
-564
-Total
-2313
-1728
-2313
 
-|         | Spectral | BioChemical | Image data |
-|:-------------|:-------------:|----------------:|
-| HLT      | 1167 | 582 | 1167 |
-| CBSD     | 582     |  582 | 582 |
-| CMD |  564   |  564  |  564 |
-| Total |  2313   |  1728  | 2313 |
 
 
 Spectral data points
-
+![Alt text](https://cdn.path.to/some/image.jpg "This is some image...")
 
 Labeling
 Every data point collected is tagged using a standard method ‘’A1HLT1a. This naming format is used for all the data types (image, Biochemical, spectral data) to distinguish each data point by class, week, variety and leaf. The tagged label is converted as: A for a variety ranging from A to C (A,B,C). The figure 1 means week 1 which goes up to week 15. HLT is a short form for class health, and this can be either CMD(cassava mosaic disease) or CBSD(cassava brown streak disease). The 1 after class type is leaf, this can be read from 1, 2 and 3. The data is collected and combined and saved in csv format as shown above in spectral data points.

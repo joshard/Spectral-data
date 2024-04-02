@@ -47,7 +47,7 @@ Total
 1728
 2313
 
-|         | Spectral         | BioChemical |Image data
+|         | Spectral | BioChemical | Image data |
 | ------------- |:-------------:|:----------------:|
 | HLT      | 1167 | 582 | 1167 |
 | CBSD     | 582     |  582 | 582 |

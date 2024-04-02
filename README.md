@@ -22,11 +22,11 @@ Tool Design: The spectrometer is designed with a consistent light source powered
 Data Summary
 
 
-| Left |  Spectral  | BioChemical |
+| Left |  Spectral  | BioChemical ||
 |:-----|:--------:|------:|------:|
-| HLT   | 1167 | 582 |
-| CBSD   |  582  |   582 |
-| CMD   | 564 |    564 |
+| HLT   | 1167 | 582 ||
+| CBSD   |  582  |   582 ||
+| CMD   | 564 |    564 ||
 Spectral data
 Bio Chemical
 Image data

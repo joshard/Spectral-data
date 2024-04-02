@@ -32,7 +32,6 @@ Data Summary
 
 
 Spectral data points
-![Spectral datapoints]([spectral data.png](https://github.com/joshard/SpectralData/blob/main/spectral%20data.png))
 <img src='./spectral data.png' width=60%>
 
 Labeling

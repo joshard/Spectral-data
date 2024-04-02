@@ -32,6 +32,7 @@ Data Summary
 
 
 Spectral data points
+
 <img src='./spectral data.png' width=60%>
 
 Labeling

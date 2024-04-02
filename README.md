@@ -32,7 +32,7 @@ Data Summary
 
 
 Spectral data points
-![Spectral datapoints](spectral data.png)
+![Spectral datapoints]([spectral data.png](https://github.com/joshard/SpectralData/blob/main/spectral%20data.png))
 
 Labeling
 Every data point collected is tagged using a standard method ‘’A1HLT1a. This naming format is used for all the data types (image, Biochemical, spectral data) to distinguish each data point by class, week, variety and leaf. The tagged label is converted as: A for a variety ranging from A to C (A,B,C). The figure 1 means week 1 which goes up to week 15. HLT is a short form for class health, and this can be either CMD(cassava mosaic disease) or CBSD(cassava brown streak disease). The 1 after class type is leaf, this can be read from 1, 2 and 3. The data is collected and combined and saved in csv format as shown above in spectral data points.
